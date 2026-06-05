@@ -366,8 +366,8 @@ export default function App() {
               </motion.div>
 
               <motion.a
-                href='/CV.pdf'
-                download='Ahmed_CV.pdf'
+                href='/Ahmed_Shaker_CV.pdf'
+                download='Ahmed_Shaker_CV.pdf'
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
