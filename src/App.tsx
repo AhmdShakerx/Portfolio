@@ -491,7 +491,7 @@ export default function App() {
                 title: "Azaban System",
                 desc: "A comprehensive e-commerce platform and integrated management system. It provides an advanced, end-to-end dashboard to track, monitor, and manage every single aspect of the store's operations seamlessly.",
                 tags: ["React", "Laravel", "PHP"],
-                img: "public/Screenshot 2026-05-20 233100.png",
+                img: "/Screenshot 2026-05-20 233100.png",
                 link: "https://purple-bear-616763.hostingersite.com/"
               },
               {
@@ -533,7 +533,7 @@ export default function App() {
                 title: "Digital Studio",
                 desc: "A sleek, dark-themed website design tailored for a digital agency or creative studio. The aesthetic conveys professionalism and modernity. The hero section is designed to deliver a strong, direct message ('Simple solutions for complex problems'), complemented by clear navigation, social media integration, and a prominent 'Leave a request' Call-to-Action (CTA).",
                 tags: ["Tailwind", "CSS", "JS"],
-                img: "public/digital-1.png",
+                img: "/digital-1.png",
                 link: "https://ahmdshakerx.github.io/Digital-Studio/"
               },
               {
