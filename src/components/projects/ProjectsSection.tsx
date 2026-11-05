@@ -6,7 +6,7 @@ import { projects } from "@/data/projects";
 import { Project } from "@/types";
 import { useSectionVisibility } from "@/hooks/useSectionVisibility";
 
-type CategoryFilter = "All Projects" | "Cryptography & Cybersecurity" |"Creative Agency Website"| "Fitness & Gym Websites"|"Web Development" | "E-commerce" | "UI/UX Design" | "AI & Technology" ;
+type CategoryFilter = "All Projects" | "Cryptography & Cybersecurity" |"Agency Website"| "Fitness & Gym Websites"|"Web Development" | "E-commerce" | "UI/UX Design" | "AI & Technology" ;
 
 export function ProjectsSection() {
   const sectionRef = useRef<HTMLElement>(null);
@@ -18,7 +18,7 @@ export function ProjectsSection() {
     "Cryptography & Cybersecurity",
     "Fitness & Gym Websites",
     "Web Development",
-    "Creative Agency Website",
+    "Agency Website",
     "E-commerce",
     "UI/UX Design",
     "AI & Technology"
