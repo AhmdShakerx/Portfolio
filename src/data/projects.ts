@@ -49,53 +49,58 @@ export const projects: Project[] = [
   }
 
   },
-  {
-  id: "FORGE",
-  slug: "forge",
-  title: "FORGE.",
-  category: "Fitness & Gym Websites",
-  shortDescription: "A modern fitness website designed to showcase a gym brand, training programs, and a powerful fitness experience.",
-  fullDescription: "FORGE. is a bold and energetic fitness website built to represent a modern gym experience. It combines impactful visuals, strong typography, and structured content to showcase training programs, fitness services, membership options, and the gym's overall identity.",
-  problem: "Fitness brands need a strong digital presence that communicates their identity, highlights available training programs, and helps potential members explore the gym's services through an engaging and accessible experience.",
+  
+{
+  id: "zeo",
+  slug: "zeo",
+  title: "ZEO",
+  category: "E-commerce",
+  shortDescription: "A premium fashion and beauty e-commerce experience crafted for a modern lifestyle brand.",
+  fullDescription: "ZEO is a sophisticated online shopping destination for bags, perfumes, makeup, and beauty essentials, combining an elegant editorial aesthetic with a seamless shopping experience.",
+  problem: "Traditional e-commerce stores often lack a distinctive brand identity and fail to create the premium visual experience customers expect from modern fashion and beauty brands.",
   role: "Front-End Developer & UI Designer",
-  technologies: ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Animation Design"],
-  mainContribution: "Developed a visually engaging gym website with a strong fitness-focused identity, combining bold layouts, dynamic interactions, and responsive sections to present the gym's services and training experience.",
+  technologies: ["Laravel", "React", "JavaScript", "CSS3 / Sass", "Responsive Design"],
+  mainContribution: "Transformed an existing e-commerce platform into a distinctive premium brand experience, focusing on editorial-inspired layouts, refined visual storytelling, and an intuitive shopping journey.",
   keyFeatures: [
-    "Bold fitness-inspired hero section with impactful visual presentation",
-    "Structured sections showcasing gym services and training programs",
-    "Modern workout and fitness imagery gallery",
-    "Interactive hover effects and smooth navigation transitions",
-    "Responsive layouts optimized for desktop, tablet, and mobile devices"
+    "Premium product discovery across bags, perfumes, makeup, and beauty collections",
+    "Elegant editorial layouts with immersive product imagery",
+    "Seamless shopping experience with responsive product and category pages",
+    "Refined Wine, Rose, Cream, and Dark visual identity",
+    "Interactive animations and carefully crafted micro-interactions",
+    "Dedicated admin dashboard for product, inventory, and sales management"
   ],
-  liveUrl: "https://gym-beryl-xi-51.vercel.app/",
-  githubUrl: "https://github.com/AhmdShakerx/Gym",
-  imageSrc: "/gum.png",
+  liveUrl: "https://zeo-nine.vercel.app/",
+  githubUrl: "https://github.com/AhmdShakerx/Zeo",
+  imageSrc: "/zeo.png",
   featured: true,
   year: "2026",
   caseStudy: {
-    overview: "FORGE. presents a modern fitness brand through a bold digital experience, combining strong visual storytelling with a structured layout that highlights the gym's identity and services.",
-    challenge: "Creating an energetic and visually distinctive fitness website while maintaining usability, responsive layouts, and consistent performance across different devices.",
+    overview: "ZEO is a premium fashion and beauty e-commerce platform designed to turn everyday online shopping into a refined and visually engaging brand experience.",
+    challenge: "Transforming an existing e-commerce system into a cohesive premium brand while maintaining its core shopping functionality and creating a distinctive identity across every customer touchpoint.",
     goals: [
-      "Establish a strong and recognizable fitness-focused visual identity",
-      "Present gym services and training programs clearly",
-      "Create engaging interactions without compromising usability",
-      "Ensure a consistent experience across desktop and mobile screens"
+      "Establish a recognizable premium fashion and beauty brand identity",
+      "Create an immersive and intuitive product discovery experience",
+      "Deliver a seamless and responsive shopping journey across devices",
+      "Improve product and inventory management through an organized admin dashboard"
     ],
-    developmentProcess: "Focused on bold typography, high-impact imagery, structured content sections, and smooth micro-interactions to create a dynamic fitness-oriented experience.",
+    developmentProcess: "Reimagined the existing platform through a brand-first design approach, introducing a sophisticated color palette, editorial-inspired sections, refined typography, and carefully designed responsive layouts while preserving the underlying e-commerce functionality.",
     technicalHighlights: [
-      "Responsive layouts using modern CSS techniques",
-      "Interactive hover states and smooth transitions",
-      "Structured content sections for fitness services and programs",
-      "Optimized visual presentation across different screen sizes"
+      "React-based e-commerce interface integrated with a Laravel backend",
+      "Responsive product and category experiences",
+      "Brand-focused UI components and reusable design patterns",
+      "Interactive shopping experience and optimized visual assets",
+      "Admin dashboard with product, inventory, and sales management"
     ],
-    lessonsLearned: "This project strengthened my ability to build brand-focused websites and balance energetic visual design with usability, responsive behavior, and smooth interactions."
+    lessonsLearned: "A successful premium e-commerce experience goes beyond functionality. Consistent visual identity, thoughtful product presentation, and seamless interactions play a major role in building brand perception and customer trust."
   }
 },
+
+  
   {
   id: "laqqta",
   slug: "laqqta",
   title: "LA2TA",
-  category: "Creative Agency Website",
+  category: "Agency Website",
   shortDescription: "A premium digital experience for a creative agency specializing in photography, branding, and social media management.",
   fullDescription: "LA2TA is a creative media and digital agency website designed to showcase visual storytelling, distinctive brand identities, and strategic social media solutions through an immersive digital experience.",
   problem: "Creative agencies need more than a conventional portfolio website. They need a distinctive digital presence that communicates their creative vision, showcases their work effectively, and turns visitors into potential clients.",
@@ -146,6 +151,47 @@ export const projects: Project[] = [
   }
 
   },
+  {
+  id: "FORGE",
+  slug: "forge",
+  title: "FORGE.",
+  category: "Fitness & Gym Websites",
+  shortDescription: "A modern fitness website designed to showcase a gym brand, training programs, and a powerful fitness experience.",
+  fullDescription: "FORGE. is a bold and energetic fitness website built to represent a modern gym experience. It combines impactful visuals, strong typography, and structured content to showcase training programs, fitness services, membership options, and the gym's overall identity.",
+  problem: "Fitness brands need a strong digital presence that communicates their identity, highlights available training programs, and helps potential members explore the gym's services through an engaging and accessible experience.",
+  role: "Front-End Developer & UI Designer",
+  technologies: ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Animation Design"],
+  mainContribution: "Developed a visually engaging gym website with a strong fitness-focused identity, combining bold layouts, dynamic interactions, and responsive sections to present the gym's services and training experience.",
+  keyFeatures: [
+    "Bold fitness-inspired hero section with impactful visual presentation",
+    "Structured sections showcasing gym services and training programs",
+    "Modern workout and fitness imagery gallery",
+    "Interactive hover effects and smooth navigation transitions",
+    "Responsive layouts optimized for desktop, tablet, and mobile devices"
+  ],
+  liveUrl: "https://gym-beryl-xi-51.vercel.app/",
+  githubUrl: "https://github.com/AhmdShakerx/Gym",
+  imageSrc: "/gum.png",
+  year: "2026",
+  caseStudy: {
+    overview: "FORGE. presents a modern fitness brand through a bold digital experience, combining strong visual storytelling with a structured layout that highlights the gym's identity and services.",
+    challenge: "Creating an energetic and visually distinctive fitness website while maintaining usability, responsive layouts, and consistent performance across different devices.",
+    goals: [
+      "Establish a strong and recognizable fitness-focused visual identity",
+      "Present gym services and training programs clearly",
+      "Create engaging interactions without compromising usability",
+      "Ensure a consistent experience across desktop and mobile screens"
+    ],
+    developmentProcess: "Focused on bold typography, high-impact imagery, structured content sections, and smooth micro-interactions to create a dynamic fitness-oriented experience.",
+    technicalHighlights: [
+      "Responsive layouts using modern CSS techniques",
+      "Interactive hover states and smooth transitions",
+      "Structured content sections for fitness services and programs",
+      "Optimized visual presentation across different screen sizes"
+    ],
+    lessonsLearned: "This project strengthened my ability to build brand-focused websites and balance energetic visual design with usability, responsive behavior, and smooth interactions."
+  }
+},
   {
     id: "azaban-system",
     slug: "azaban-system",
@@ -221,6 +267,54 @@ export const projects: Project[] = [
       lessonsLearned: "Designing for educators requires hyper-clear validation messages and instant feedback during AI synthesis to eliminate uncertainty."
     }
   },
+  
+{
+  id: "cloudflow",
+  slug: "cloudflow",
+  title: "CLOUDFLOW",
+  category: "Agency Website",
+  shortDescription: "A premium digital studio website showcasing modern web, mobile, systems, and cybersecurity solutions.",
+  fullDescription: "CLOUDFLOW is a modern digital solutions studio focused on building high-performance websites, applications, integrated systems, and cybersecurity solutions. The platform delivers a distinctive digital identity through cinematic visuals, immersive interactions, and a refined user experience.",
+  problem: "Traditional technology agency websites often rely on generic layouts and predictable visuals, making it difficult to communicate technical expertise, establish a memorable brand identity, and differentiate their services in a competitive digital market.",
+  role: "Founder & Front-End Developer",
+  technologies: ["React", "JavaScript", "Tailwind CSS", "GSAP", "Three.js", "Responsive Design"],
+  mainContribution: "Designed and developed a distinctive digital studio experience, combining a premium visual identity with cinematic animations, interactive storytelling, and carefully structured service presentations.",
+  keyFeatures: [
+    "Dedicated service experiences for Web Development, Application Development, and Cybersecurity",
+    "Bilingual Arabic and English interface",
+    "Cinematic scroll-driven animations and immersive 2.5D visual interactions",
+    "Custom cloud-inspired brand identity with signature blue visual accents",
+    "Interactive service sections and engaging project presentations",
+    "Responsive layouts optimized for desktop, tablet, and mobile devices",
+    "Performance-conscious animations and optimized visual experiences"
+  ],
+  liveUrl: "https://cloud-flow-nu.vercel.app/",
+  githubUrl: "https://github.com/AhmdShakerx/CloudFlow",
+  imageSrc: "/cloudflow.png",
+  year: "2026",
+  caseStudy: {
+    overview: "CLOUDFLOW is a digital solutions studio built to bring modern digital ideas to life through web development, application engineering, integrated systems, and cybersecurity services.",
+    challenge: "Creating a distinctive online presence for a multi-service technology studio without falling into the conventional visual patterns of corporate IT and digital agency websites.",
+    goals: [
+      "Establish a recognizable and premium digital studio identity",
+      "Present complex technical services through clear and engaging experiences",
+      "Create an immersive browsing experience through meaningful motion and interactions",
+      "Deliver a consistent bilingual experience across all devices",
+      "Balance visual creativity with performance and usability"
+    ],
+    developmentProcess: "Developed a brand-first design direction inspired by modern digital studios, combining a dark visual environment, signature blue accents, custom cloud-inspired graphics, cinematic transitions, and scroll-based storytelling. Built reusable React components and interactive experiences while prioritizing responsiveness and animation performance.",
+    technicalHighlights: [
+      "Component-based React architecture",
+      "GSAP and ScrollTrigger for scroll-driven animations",
+      "Three.js for immersive 3D visual experiences",
+      "Tailwind CSS for scalable styling and responsive layouts",
+      "Bilingual Arabic and English layout support",
+      "Animation lifecycle optimization for improved performance"
+    ],
+    lessonsLearned: "A strong digital studio website should communicate more than its technical capabilities. Brand consistency, purposeful motion, clear service positioning, and performance optimization work together to create a memorable digital experience."
+  }
+},
+
   {
     id: "pink-shield",
     slug: "pink-shield",
@@ -378,6 +472,4 @@ export const projects: Project[] = [
       lessonsLearned: "Contrast ratios must be rigorously tested when using neon accents on dark backgrounds to preserve readability."
     }
   },
-  
-  
 ];
