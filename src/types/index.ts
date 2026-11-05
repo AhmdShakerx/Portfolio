@@ -2,7 +2,7 @@ export interface Project {
   id: string;
   slug: string;
   title: string;
-  category: "Web Development" | "Cryptography & Cybersecurity" | "Creative Agency Website" | "Fitness & Gym Websites" | "E-commerce" | "UI/UX Design" | "AI & Technology" | "Landing Pages";
+  category: "Web Development" | "Cryptography & Cybersecurity" | "Creative Agency Website" | "Fitness & Gym Websites" | "E-commerce" | "UI/UX Design" | "AI & Technology";
   shortDescription: string;
   fullDescription: string;
   problem: string;
